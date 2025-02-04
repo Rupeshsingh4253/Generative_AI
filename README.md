@@ -1,5 +1,3 @@
-Here's a well-structured **README.md** for your **"RAG Q&A Conversation With PDF Including Chat History"** project:  
-
 ---
 
 # **RAG Q&A Conversation With PDF Including Chat History**  
@@ -77,5 +75,3 @@ streamlit run app.py
 Feel free to **fork**, **contribute**, and **submit PRs**! 😊  
 
 ---
-
-This README will make your project look **professional and well-documented** on GitHub! 🚀 Let me know if you need any modifications! 😊
